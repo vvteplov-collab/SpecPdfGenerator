@@ -10,3 +10,6 @@ Installer/Output/
 .vs/
 *.user
 *.suo
+
+# Local agent instructions
+CODEX.md
