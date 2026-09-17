@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+  <ribbon>
+    <tabs>
+      <tab id="tabTeplovSpecPdfGenerator" label="Teplov">
+        <group id="groupSpecification" label="Спецификация">
+          <button id="generatePdf" label="Сформировать PDF" size="large" onAction="GeneratePdf"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>

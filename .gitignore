@@ -1,0 +1,12 @@
+# Build and intermediate output
+[Bb]in/
+[Oo]bj/
+tmp/
+
+# Installer build output (published as a GitHub Release asset instead)
+Installer/Output/
+
+# IDE and user-specific files
+.vs/
+*.user
+*.suo
